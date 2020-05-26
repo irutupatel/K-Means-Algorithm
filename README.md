@@ -29,7 +29,7 @@ The first line of input will be N and k (space in between). This will be followe
     3.35228193353 6.27493570626 
     6.76656276363 6.54028732984 
     
-In this example the goal of the clustering task is to find the groups among 10 data points as illustrated in Figure 1. The k value for this example is 2, and we provide two random selected initial points at the end of the input.
+In this example the goal of the clustering task is to find the groups among 10 data points. The k value for this example is 2, and we provide two random selected initial points at the end of the input.
 
 ## Output Format and Sample
 The output is the clustering results on the provided data made by k-means. For each method, print the cluster-id corresponding to each point on separate lines.
